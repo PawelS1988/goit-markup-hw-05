@@ -323,6 +323,7 @@ display: flex;
 
 .pros-list {
 display: flex;
+flex-grow: 1;
 align-items: center;
 justify-content: space-between;
 padding-top: 94px;
@@ -355,8 +356,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 }
 
-.pros-list-item-descritpion {
-padding-bottom: 94px;
+.pros-list-item-description {
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
@@ -364,6 +364,7 @@ font-size: 14px;
 line-height: 24px;
 letter-spacing: 0.03em;
 color: #757575;
+width: 270px;
 }
 
 /* ------- Section Pros End ------- */

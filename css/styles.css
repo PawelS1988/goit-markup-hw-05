@@ -842,6 +842,9 @@ border: 1px solid rgb(0, 0, 0, 0.1);
 border-radius: 50%;
 background-color: transparent;
 cursor: pointer;
+background-image: url(../images/close.svg);
+background-repeat: no-repeat;
+background-position: center;
 }
 
 .is-hidden {
